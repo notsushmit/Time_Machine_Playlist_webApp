@@ -2,7 +2,7 @@
 
 A web application that lets you travel back in time musically by exploring the Billboard Hot 100 charts from any week in history. Discover what songs were popular on any given date and create nostalgic playlists from different decades.
 
-**LIVE PROJECT**:https://musictimemachine.netlify.app/
+**LIVE PROJECT**:https://musictimemachine.netlify.app/ (Make sure you choose a saturday while selecting the date)
 <img width="1073" height="698" alt="image" src="https://github.com/user-attachments/assets/094cb673-032c-4077-9abc-bd647763a507" />
 <img width="1073" height="698" alt="image" src="https://github.com/user-attachments/assets/24dd0f39-9c4e-4a40-9287-ed18513b6b12" />
 
@@ -18,16 +18,6 @@ A web application that lets you travel back in time musically by exploring the B
 - **Spotify Export**: Mock functionality to export playlists to Spotify (demo purposes)
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
-## 🎨 Visual Themes
-
-The app features decade-specific visual themes that automatically apply based on your selected date:
-
-- **1950s-1960s**: Warm brown and sandy tones
-- **1970s**: Vibrant orange, pink, and purple gradients
-- **1980s**: Neon colors with animated grid patterns
-- **1990s**: Modern teal gradient from black to light gray
-- **2000s**: Silver, blue, and coral combinations
-- **2010s-2020s**: Contemporary teal gradient design
 
 ## 🚀 Getting Started
 
@@ -70,7 +60,7 @@ This project uses the excellent [Billboard Hot 100 dataset](https://github.com/m
 
 ## 🎵 How It Works
 
-1. **Select a Date**: Choose any date from August 4, 1958 onwards
+1. **Select a Date**: Make sure you choose a Saturday (1958 onwards)
 2. **Fetch Data**: The app retrieves Billboard Hot 100 data for that week
 3. **Display Results**: Songs are displayed in a responsive grid with rankings
 4. **Explore**: Click on Spotify or YouTube links to listen to the songs
@@ -152,6 +142,7 @@ Contributions are welcome! Here are some ways you can help:
 - Billboard for the original chart data
 - React team for the excellent framework
 - Google Fonts for the Inter typeface
+
 
 
 
