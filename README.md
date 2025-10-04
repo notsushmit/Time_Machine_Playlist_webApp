@@ -140,14 +140,11 @@ Contributions are welcome! Here are some ways you can help:
 3. **Code Contributions**: Submit pull requests with enhancements
 4. **Documentation**: Help improve this README or add code comments
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - [mhollingshead](https://github.com/mhollingshead) for the Billboard Hot 100 dataset
 - Billboard for the original chart data
 - React team for the excellent framework
 - Google Fonts for the Inter typeface
+
 
