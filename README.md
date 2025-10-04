@@ -3,6 +3,10 @@
 A web application that lets you travel back in time musically by exploring the Billboard Hot 100 charts from any week in history. Discover what songs were popular on any given date and create nostalgic playlists from different decades.
 
 **LIVE PROJECT**:https://musictimemachine.netlify.app/
+<img width="1073" height="698" alt="image" src="https://github.com/user-attachments/assets/094cb673-032c-4077-9abc-bd647763a507" />
+<img width="1073" height="698" alt="image" src="https://github.com/user-attachments/assets/24dd0f39-9c4e-4a40-9287-ed18513b6b12" />
+
+
 
 ## ✨ Features
 
@@ -148,6 +152,7 @@ Contributions are welcome! Here are some ways you can help:
 - Billboard for the original chart data
 - React team for the excellent framework
 - Google Fonts for the Inter typeface
+
 
 
 
